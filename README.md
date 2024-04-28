@@ -3,7 +3,6 @@ Java ♨ <br />
 IBM DB2 🛢 <br />
 HTML 🔗 <br />
 Arduino <a href="https://emoji.gg/emoji/2618-arduino"><img src="https://cdn3.emoji.gg/emojis/2618-arduino.png" width="20px" height="20px" alt="Arduino"></a> <br />
-MS Office <a href="https://cdn-icons-png.flaticon.com/128/888/888867"><img src="https://cdn-icons-png.flaticon.com/128/888/888867.png" width="20px" height="20px" alt="MS Office"></a> <br />
 <br />
 # Education 📚
 BS Computer Science <br />
