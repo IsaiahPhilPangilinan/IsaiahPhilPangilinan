@@ -9,7 +9,7 @@
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="mailto: isaiahphilpangilinan@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Website">
+        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Website">
     </a>
 </p>
 
@@ -25,7 +25,7 @@ SY: 2021 - Present <br/>
 
 ## Senior High School
 <h3>New Era University - Integrated School</h3>
-STEM<br/>
+STEM - Science, Technology, Engineering, and Mathematics<br/>
 SY: 2019 - 2021<br/>
 
 
@@ -69,11 +69,19 @@ November 5, 2022 <br /><br />
 <h1 align="center"> Tech Achievement 📊</h1>
 
 ## Power BI Projects
+### [Professional Elective 4 Course Report](https://app.powerbi.com/view?r=eyJrIjoiODkzYTFjOTUtMGYyMy00MWYzLThlZjgtNjNmMDNhODU4OWQ4IiwidCI6ImI2ZjM0YTQxLTUzM2ItNDEwZS1iMWQ1LTJjYjc2MGU3YmI3ZCIsImMiOjEwfQ%3D%3D)
 ### [Snacks Report using DAX](https://app.powerbi.com/view?r=eyJrIjoiZTU2MWY1YjItZTUyNC00Nzk5LWExMzYtMjNlM2NiY2ZjMjZlIiwidCI6ImI2ZjM0YTQxLTUzM2ItNDEwZS1iMWQ1LTJjYjc2MGU3YmI3ZCIsImMiOjEwfQ%3D%3D)
 ### [Soda Report](https://app.powerbi.com/view?r=eyJrIjoiZjE3YTZlZTctZGNiNi00MWQ1LTkyNDAtNGNhMDI4YjFmYjUwIiwidCI6ImI2ZjM0YTQxLTUzM2ItNDEwZS1iMWQ1LTJjYjc2MGU3YmI3ZCIsImMiOjEwfQ%3D%3D)
 
 ## Tableau Projects
 ### [Awesome Chocolate Dashboard Report](https://public.tableau.com/views/AwesomeChocolateDashboardReport_17155921750220/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+## My Top Software Engineering Design Patterns
+### 1. [Visitor Pattern](https://github.com/IsaiahPhilPangilinan/visitorPattern.git)
+### 2. [Strategy Pattern](https://github.com/IsaiahPhilPangilinan/strategyPattern.git)
+### 3. [SOLID Principles with Design Pattern](https://github.com/IsaiahPhilPangilinan/SOLIDwithDesignPattern.git)
+### 4. [State Pattern](https://github.com/IsaiahPhilPangilinan/statePattern.git)
+### 5. [Facade Pattern](https://github.com/IsaiahPhilPangilinan/facadePattern.git)
 
 
 
@@ -81,7 +89,13 @@ November 5, 2022 <br /><br />
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h1 align="center">Skill Set 👨🏻‍💻</h1>
+
+## Data Visualization Tools: ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+## Programming Languages: ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
+## DBMS: ![DB2](https://img.shields.io/badge/DB2-0033A0?style=for-the-badge&logo=IBM&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+## Dev Tools: ![JasperSoft Studio](https://img.shields.io/badge/JasperSoft%20Studio-007396?style=for-the-badge&logo=Jaspersoft&logoColor=white) ![Lucidchart](https://img.shields.io/badge/Lucidchart-F28D1A?style=for-the-badge&logo=Lucidchart&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij%20idea&logoColor=white)
+
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=isaiahphilpangilinan&label=Profile%20views&color=0e75b6&style=flat" alt="isaiahphilpangilinan" /> </p>
