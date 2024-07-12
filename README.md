@@ -1,5 +1,10 @@
-![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
-<h1 align="center">Hi, I'm Isaiah Phil Pangilinan!</h1>
+<div align="center">
+    
+![MasterHead](https://github.com/user-attachments/assets/48b68888-1d4e-4bb0-b7da-9105c8a3950c)
+
+</div>
+
+<h1 align="center">Socials 🌐</h1>
 
 <p align="center">
     <a href="https://www.facebook.com/isaiahphil.pangilinan.5">
@@ -66,7 +71,7 @@ November 5, 2022 <br /><br />
 
 
 
-<h1 align="center"> Tech Achievement 📊</h1>
+<h1 align="center"> Tech Achievements 📊</h1>
 
 ## Power BI Projects
 ### [Professional Elective 4 Course Report](https://app.powerbi.com/view?r=eyJrIjoiODkzYTFjOTUtMGYyMy00MWYzLThlZjgtNjNmMDNhODU4OWQ4IiwidCI6ImI2ZjM0YTQxLTUzM2ItNDEwZS1iMWQ1LTJjYjc2MGU3YmI3ZCIsImMiOjEwfQ%3D%3D)
